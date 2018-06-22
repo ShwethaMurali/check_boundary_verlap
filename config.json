@@ -1,0 +1,5 @@
+{
+	"input_bed": "example_Inversions_Regions.bed",
+	"segdup_file": "genomicSuperDup.tab",
+	"padEdge": "10000"
+} 
